@@ -1,0 +1,16 @@
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\That Game Renting Services.exe.config
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\That Game Renting Services.exe
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\That Game Renting Services.pdb
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.csprojResolveAssemblyReference.cache
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That_Game_Renting_Services.Form1.resources
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That_Game_Renting_Services.Properties.Resources.resources
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.csproj.GenerateResource.cache
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.csproj.CoreCompileInputs.cache
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.exe
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.pdb
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\MySql.Data.dll
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\Google.Protobuf.dll
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\MySql.Data.xml
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\obj\Debug\That Game Renting Services.csproj.CopyComplete
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\Dapper.dll
+C:\Projects\Big Projects\That-Game-Renting-Services\That Game Renting Services\That Game Renting Services\bin\Debug\Dapper.xml
